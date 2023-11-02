@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Search from "./component/search";
+import Display from "./component/display";
 
 function App() {
   return (
     <>
-      <Search />
+      <Display />
     </>
   );
 }
